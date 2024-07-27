@@ -6,7 +6,7 @@
 I'm a passionate developer working on various projects. Here are some of my interests and skills:
 
 - **Languages:** C, C++, Python, Java, SystemVerilog
-- **Frameworks:** React, Node.js, Boost.Asio
+- **Frameworks:** 
 - **Tools:** Git, Docker, Google Test
 
 ## Projects

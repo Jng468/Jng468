@@ -3,7 +3,7 @@
 ![Profile Banner](https://your-image-url.com/banner.png)
 
 ## About Me
-I'm a passionate developer working on various projects. Here are some of my interests and skills:
+Hello, I'm Jing 
 
 - **Languages:** C, C++, Python, Java, SystemVerilog
 - **Frameworks:** 

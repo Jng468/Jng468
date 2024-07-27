@@ -21,6 +21,4 @@ Description of another project.
 ![Another Project](https://your-image-url.com/another-project.png)
 
 ## Contact
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/jngm/)

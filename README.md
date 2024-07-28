@@ -9,9 +9,6 @@
 
 - ⚡ Ask me about **Computer Engineering**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 

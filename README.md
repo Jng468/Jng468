@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<h1 align="center">Hi there! I'm Jing :wave:</h1>
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 

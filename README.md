@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Jing <span class="wave">👋🏻</span></h1>
+<h1 align="center">Hi there! <span class="wave">👋🏻 I'm Jing </span></h1>
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 

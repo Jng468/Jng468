@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **network interface for UBC Sailbot**
 
-- 💌 How to reach me **https://www.linkedin.com/in/jngm/**
+- 💌 How to reach me *https://www.linkedin.com/in/jngm/*
 
 - ⚡ Ask me about **Computer Engineering**
 

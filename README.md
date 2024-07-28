@@ -7,7 +7,7 @@
 
 - 💌 How to reach me *https://www.linkedin.com/in/jngm/*
 
-- ⚡ Ask me about **Computer Engineering**
+- ⚡ Ask me about **Computer Engineering at UBC**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 

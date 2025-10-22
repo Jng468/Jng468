@@ -23,9 +23,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/> 
-  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
